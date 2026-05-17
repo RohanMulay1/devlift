@@ -64,4 +64,20 @@ This project demonstrates strong alignment with the IBM Bob Hackathon judging cr
 
 ---
 
-**Note**: Export your actual Bob session reports and place them in this directory before final submission.
+## Bob Task Export
+
+The full Bob task export is available in [`bob-task-export.md`](./bob-task-export.md) — this contains the complete session history of how DevLift was built using IBM Bob.
+
+## Screenshots
+
+### Task Stats
+![Bob Task Stats](./bob-task-stats.png)
+- **Task ID**: aa877f6a-2b41-4670-9cf8-50a42949d722
+- **Tokens used**: 14.2M input / 108.0K output
+- **API Cost**: $36.70
+- **Context**: 114.5k / 200k
+
+### Todo List (45/45 completed)
+![Bob Todo List](./bob-todo-list.png)
+
+All 45 tasks completed — from backend directory structure through every frontend component and documentation.
